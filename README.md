@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **iamgursharan/iamgursharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Gursharan Singh Batth 👋
+# Hi, I'm Gursharan 👋
 
 ### Senior Software Engineer | TypeScript · Node.js · React · AWS
 
